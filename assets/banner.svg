@@ -1,1 +1,72 @@
+<svg width="100%" height="240" viewBox="0 0 1000 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
 
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .title { font: bold 32px sans-serif; fill: #ffffff; }
+      .subtitle { font: 16px sans-serif; fill: #cfd8dc; }
+      .accent { fill: #00f7ff; font-weight: bold; }
+      .code { fill: #00f7ff; font-family: monospace; font-size: 12px; }
+    </style>
+  </defs>
+
+  <rect width="1000" height="240" fill="url(#bg)" rx="20"/>
+
+  <!-- TEXT -->
+  <text x="40" y="100" class="title">Hey, I'm Shabnam 🚀</text>
+
+  <text x="40" y="135" class="subtitle">
+    I love turning complex backend logic into simple solutions
+  </text>
+
+  <text x="40" y="165" class="subtitle accent">
+    .NET | APIs | Architecture | Problem Solver
+  </text>
+
+  <!-- API FLOW (RIGHT SIDE) -->
+  <!-- Frontend -->
+  <circle cx="520" cy="180" r="6" fill="#00f7ff" filter="url(#glow)"/>
+  <text x="485" y="200" class="code">Frontend</text>
+
+  <!-- ASP.NET Core -->
+  <circle cx="680" cy="110" r="6" fill="#00f7ff" filter="url(#glow)"/>
+  <text x="640" y="95" class="code">ASP.NET Core</text>
+
+  <!-- SQL Server -->
+  <circle cx="850" cy="180" r="6" fill="#00f7ff" filter="url(#glow)"/>
+  <text x="815" y="200" class="code">SQL Server</text>
+
+  <!-- Flow Path -->
+  <path id="flowPath" d="M520 180 Q680 60 850 180" stroke="#00f7ff" stroke-width="2" fill="none" opacity="0.3"/>
+
+  <!-- Moving Dot -->
+  <circle r="4" fill="#00f7ff">
+    <animateMotion dur="4s" repeatCount="indefinite">
+      <mpath href="#flowPath"/>
+    </animateMotion>
+  </circle>
+
+  <!-- Floating Code -->
+  <text x="560" y="60" class="code" opacity="0.5">
+    GET /api/pets
+    <animate attributeName="opacity" values="0.2;0.7;0.2" dur="4s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="780" y="60" class="code" opacity="0.5">
+    200 OK
+    <animate attributeName="opacity" values="0.2;0.7;0.2" dur="5s" repeatCount="indefinite"/>
+  </text>
+
+</svg>
