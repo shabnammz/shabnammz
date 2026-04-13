@@ -1,16 +1,102 @@
-## Hi there 👋
+<!-- BANNER -->
+<p align="center">
+  <img src="assets/banner.svg" />
+</p>
 
-<!--
-**shabnammz/shabnammz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Designing+Backend+Systems;Explaining+Complex+Concepts+Simply;Building+Clean+APIs;Growing+Every+Day" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 About Me
+
+- 💡 Passionate about building clean and maintainable backend systems  
+- 🧠 Strong understanding of N-Tier & Onion Architecture  
+- 🛠️ Working with ASP.NET Core & Web APIs  
+- 🎯 Goal: Becoming a developer who can both build and teach  
+
+---
+
+### ⚙️ Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web%20API-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LINQ-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AutoMapper-DD0031?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FluentValidation-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shabnammz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shabnammz&theme=tokyonight&hide_border=true&background=00000000" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shabnammz&theme=tokyo-night&hide_border=true&bg_color=00000000" />
+</p>
+
+---
+
+### 🚀 Featured Project
+
+## 🐾 Pet Care Management System
+
+A scalable backend system built with ASP.NET Core, focused on clean architecture and real-world API design.
+
+---
+
+### ⚙️ Tech Stack
+ASP.NET Core • Web API • MVC • Entity Framework Core • MS SQL Server  
+
+---
+
+### 🔑 Highlights
+- Designed using Onion Architecture  
+- Built 40+ RESTful API endpoints  
+- Implemented JWT Authentication  
+- Applied FluentValidation & AutoMapper  
+- Used Generic Repository Pattern  
+
+---
+
+### 📌 Architecture
+This project follows Onion Architecture to ensure separation of concerns and maintainability.
+
+---
+
+### 🔗 Explore the Project
+👉 https://github.com/shabnammz/FinalProject-PetCareSystem.git
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/shabnammz/shabnammz/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+### ✨ Let's Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/shabnam-zeynalli  
+- 📫 Email: zeynallisebnem.bs@gmail.com  
+
+---
+
+⭐️ Always learning, always building.
