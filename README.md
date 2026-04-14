@@ -43,12 +43,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=00000000" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shabnammz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shabnammz&theme=tokyonight&hide_border=true&background=00000000" height="160"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shabnammz&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
 
 </div>
 
