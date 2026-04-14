@@ -23,7 +23,7 @@
 
 ### ⚙️ Tech Stack
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge"/>
@@ -41,14 +41,16 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shabnammz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shabnammz&theme=tokyonight&hide_border=true&background=00000000" height="160"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shabnammz&theme=tokyo-night&hide_border=true&bg_color=00000000" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=00000000" height="160"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+
+</div>
 
 ---
 
@@ -80,7 +82,13 @@ This project follows Onion Architecture to ensure separation of concerns and mai
 ---
 
 ### 🔗 Explore the Project
-👉 https://github.com/shabnammz/FinalProject-PetCareSystem.git
+
+<p align="center">
+<a href="https://github.com/shabnammz/FinalProject-PetCareSystem.git">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
 
 ---
 
@@ -94,8 +102,15 @@ This project follows Onion Architecture to ensure separation of concerns and mai
 
 ### ✨ Let's Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/shabnam-zeynalli  
-- 📫 Email: zeynallisebnem.bs@gmail.com  
+<p align="center">
+<a href="https://linkedin.com/in/shabnam-zeynalli">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:zeynallisebnem.bs@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
