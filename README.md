@@ -84,7 +84,7 @@ This project follows Onion Architecture to ensure separation of concerns and mai
 ### 🔗 Explore the Project
 
 <p align="center">
-<a href="https://github.com/shabnammz/FinalProject-PetCareSystem.git">
+<a href="https://github.com/shabnammz/PetCareManagement.git">
   <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
